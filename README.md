@@ -2,8 +2,16 @@
 
 
 - 💻 At the moment I'm working as support in IT, but my focus is on Development.
-- 📖 I'm currently learning, JavaScript, and some frameworks.
-- 😄 Pronouns: he/his or ele/dele
+- 📖 I'm currently learning JavaScript, React English and some frameworks.
+- 🖥️ Tools: VSCode, Sublime, Git, GitHub.
+- 💼 Works: I currently work at ADTSA - Divisão de Concessionárias.
+- 😄 Pronouns: he/his or ele/dele.
+- 📭 You can find me here: ⬇️
+<div>
+  <a href="https://www.instagram.com/andre_nobree/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:afelipe1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-nobre-b61397140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <div align="center">
   <a href="https://github.com/AndreNobree">
@@ -20,11 +28,5 @@
 </div>
   
   ##
-  
-<div>
-  <a href="https://www.instagram.com/andre_nobree/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:afelipe1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-nobre-b61397140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
   
 ![Snake animation](https://github.com/AndreNobree/AndreNobree/blob/output/github-contribution-grid-snake.svg)
