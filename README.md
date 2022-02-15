@@ -1,4 +1,4 @@
-###👋 Hi, I’m André
+👋 Hi, I’m André
 
 
 - 💻 At the moment I'm working as support in IT, but my focus is on Development.
