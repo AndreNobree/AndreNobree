@@ -2,7 +2,7 @@
 
 
 - 💻 At the moment I'm working as support in IT, but my focus is on Development.
-- 📖 I'm currently learning Javascript, React, English and some frameworks.
+- 📖 I'm currently learning Javascript, React Native, English and some frameworks.
 - 🖥️ Tools: VSCode, Sublime, Git, GitHub.
 - 💼 Works: I currently work at ADTSA - Divisão de Concessionárias.
 - 😄 Pronouns: he/his or ele/dele.
