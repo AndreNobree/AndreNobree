@@ -4,8 +4,7 @@
 - 💻 At the moment I'm working as support in IT, but my focus is on Development.
 - 📖 I'm currently learning Javascript, React Native, English and some frameworks.
 - 🖥️ Tools: VSCode, Sublime, Git, GitHub.
-- 💼 Works: I currently work at ADTSA - Divisão de Concessionárias.
-- 😄 Pronouns: he/his or ele/dele.
+- 💼 Works: I currently work at IBYTE.
 - 📭 You can find me here: ⬇️
 <div>
   <a href="https://www.instagram.com/andre_nobree/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
