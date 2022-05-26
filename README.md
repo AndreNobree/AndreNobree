@@ -1,7 +1,7 @@
 👋 Hi, I’m André
 
 
-- 💻 At the moment I'm working as support in IT, but my focus is on Development.
+- 💻 I am currently working as a backend developer
 - 📖 I'm currently learning Javascript, React Native, English and some frameworks.
 - 🖥️ Tools: VSCode, Sublime, Eclipse, Git, GitHub.
 - 💼 Work: Currently I work in the development team at IBYTE.
