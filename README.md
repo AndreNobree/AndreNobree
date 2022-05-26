@@ -2,7 +2,7 @@
 
 
 - 💻 I am currently working as a backend developer
-- 📖 I'm currently learning Javascript, React Native, English and some frameworks.
+- 📖 I'm currently learning Java, JavaScript, Flutter and English.
 - 🖥️ Tools: VSCode, Sublime, Eclipse, Git, GitHub.
 - 💼 Work: Currently I work in the development team at IBYTE.
 - 📭 You can find me here: ⬇️
