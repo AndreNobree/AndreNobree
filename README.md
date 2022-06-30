@@ -27,7 +27,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png"> 
-  
+  <p>  </p>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/452/mysql-logo.png"> 
   
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/452/nodejs.png"> 
