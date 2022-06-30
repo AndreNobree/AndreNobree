@@ -31,7 +31,7 @@
                        
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/452/nodejs.png"> 
                  
-  <img align="center" height="40" width="40" margin-left="40" src="https://img.icons8.com/color/452/react-native.png">
+  <img align="center" height="40" width="40" left="40" src="https://img.icons8.com/color/452/react-native.png">
 </div>
   
   
